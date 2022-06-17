@@ -18,7 +18,7 @@ Im javascript developer. *There is example of my code:
         }
     });
    ```
-   This is my social links:
+   This is my social links:*
    * Facebook
    * Website
    * Telegram
